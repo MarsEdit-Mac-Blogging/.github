@@ -22,7 +22,7 @@ With its clean and focused interface, MarsEdit is perfect for bloggers, journali
 
 Whether you’re drafting a quick post or working on a long-form article, MarsEdit provides the tools you need for efficient and professional blogging.
 
-![MarsEdit Screenshot](https://redsweater.com/marsedit/images/EditorWindow@2x.png)
+![MarsEdit Screenshot](https://redsweater.com/marsedit/images/MediaManagerLarge@2x.png?2)
 
 ---
 
